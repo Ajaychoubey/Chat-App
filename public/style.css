@@ -1,0 +1,35 @@
+*
+{
+    font-size: 30px;
+    font-family: Fira Code;
+}
+input
+{
+    font-size: 30px;
+    padding: 10px;
+    border-color: black;
+    width: 600px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+input:focus
+{
+    border-color: cyan; 
+    box-shadow: #000 3px 3px 3px;
+}
+#submit 
+{
+    font-family: Fira Code;
+    padding: 15px;
+    font-size: 30px;
+    background-color: purple;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    transition: 0.5s;
+}
+#submit:hover
+{
+    background-color: chocolate;
+    cursor: pointer;
+}

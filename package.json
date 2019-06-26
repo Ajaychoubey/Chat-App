@@ -1,0 +1,16 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "This app runs only on machine (A simple boiler plate)",
+  "main": "index.js",
+  "scripts": {
+    "test": "Chat app is running"
+  },
+  "author": "Rudra Choubey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "socket.io": "^2.2.0"
+  }
+}
